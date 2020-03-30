@@ -1,8 +1,9 @@
 ---
-title: ".gitignore 적용하기"
+title: .gitignore 적용하기
 date: 2020-03-30 20:20:00 +0900
 categories: git
 ---
 
+### .gitignore 적용하기
 
-출처 : [https://stackoverflow.com/questions/11451535/gitignore-is-ignored-by-git][https://stackoverflow.com/questions/11451535/gitignore-is-ignored-by-git]  
+출처 : (https://stackoverflow.com/questions/11451535/gitignore-is-ignored-by-git)[https://stackoverflow.com/questions/11451535/gitignore-is-ignored-by-git]  
